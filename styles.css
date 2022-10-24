@@ -3,7 +3,7 @@
 :root {
   --white: #fff;
   --gray: #c4c4c4;
-  --light-purple: #F6358A;
+  --light-purple: #3EA99F;
   --dark-purple: #4c3fe2;
 }
 
@@ -43,7 +43,7 @@ nav #mobile-toggle {
 
 nav .logo {
   font-size: 3rem;
-  color: #F6358A;
+  color: #3EA99F;
 }
 
 nav .nav-items {
